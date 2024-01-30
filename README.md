@@ -1,6 +1,8 @@
 
 # Olist E-commerce-Dashboard
 
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/a09b1900-189b-4dc5-988d-e54633ea024a/ReportSectionef0d17b75c4d6da856ba?experience=power-bi
+
 ## Problem Statement
 
 Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
