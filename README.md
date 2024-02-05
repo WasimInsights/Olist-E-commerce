@@ -86,7 +86,7 @@ A card visual was used to represent count of customers.
  
  - Step 17 : New measure was created for an advanced visual in third dashboard 
  
- Following are 2 DAX expression was written to find total distance,
+ Following are 2 DAX expression was written for customer sentiment analysis,
  
          Emot = IF([Total review score]>403000,"wink",IF([Total review score]>200000,"laugh",IF([Total review score]>180000,"worried","angry")))
          Action = IF([Total review score]>403000,"yuhoo",IF([Total review score]>200000,"superperfect",IF([Total review score]>180000,"thinkinghmm","angryfrustrated")))
